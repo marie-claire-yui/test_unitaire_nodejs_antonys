@@ -1,0 +1,19 @@
+{
+  "name": "test-unitaire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maths.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+
+  "keywords": [],
+  "author": "votre nom",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "sqlite3": "^5.1.6"
+  }
+}
+
